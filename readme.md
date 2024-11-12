@@ -1,9 +1,15 @@
-python 3.12.7
-Django 5.1.1
-Bootstrap: 5.3.3
+# Sistema de gestión de Proyectos de Software.
 
-Project: mysite
-App: project
+### Tecnologías
+*Python:* 3.12.7
+*Django:* 5.1.1
+*Bootstrap:* 5.3.3
 
-Superuser: root
-Password: root
+### Gestión del Django
+*Project:* mysite
+*App:* project
+
+### SuperUser
+> Name: root
+> Email: root@root.com
+> Password: root
