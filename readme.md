@@ -18,5 +18,5 @@ Sistema de gestion de *proyectos de software*, este implica la asignación y ges
 > ### Super usuario
 >
 > - *Name:* root
-> - *Email:¨* root@root.com
+> - *Email:* root@root.com
 > - *Password:* root
